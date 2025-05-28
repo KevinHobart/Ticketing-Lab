@@ -1,5 +1,5 @@
 # Ticketing-Lab
-
+*Place holder for guided Ticketing Lab using Peppermint Ticketing Software from Practical Help Desk course from TCM Security.*
 ## Objective
 [Brief Objective - Remove this afterwards]
 
